@@ -11,9 +11,9 @@
 <hr>
 <p><b>Coding:</b>JavaScript with React framework, HTML, CSS, C++, Java, PHP</p>
 <p><b>Technologies/Environment:</b>Windows, Linux, MySQL, Agile, Git</p>
-<p><b>Personal:</b>Time-management, Self-motivated, Outgoing, Full of ideas</p>
-<hr>
+<p><b>Personal:</b>Time-management, Self-motivated, Outgoing, Full of ideas</p
 <h3>RREFERENCES AVAILABLE ON REQUEST</h3>
+<hr>
 <p><b>GitHub Link:</b><a href="https://github.com/AliIbnBotir">https://github.com/AliIbnBotir</a></p>
 <p><b>Portfolio</b><a href="https://aliibnbotir.github.io/Portfolio/">https://aliibnbotir.github.io/Portfolio/</a></p>
 
